@@ -26,3 +26,13 @@ Reply to the invitation e-mail with your github username to notify of completion
 
 Have fun coding! 🚀
 The Aries Financial Team
+
+### Notes
+strike price = buy or sell underlying security when option exercised
+Put = sell
+Call = buy
+bid = highest price to buy
+ask = lowest price to sell
+long = profit from rising value
+short = profit from falling value
+
